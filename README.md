@@ -1,5 +1,5 @@
 # Academic Pages
-[areffarhadi.guthub.io](areffarhadi.guthub.io)
+[areffarhadi.guthub.io](https://areffarhadi.github.io/)
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
