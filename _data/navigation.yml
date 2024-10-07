@@ -7,14 +7,14 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Datasets"
+    url: /Datasets/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Datasets"
-    url: /Datasets/    
+    url: /talks/        
     
-  - title: "Portfolio"
+  - title: "Photography"
     url: /portfolio/
         
   - title: "Blog Posts"
