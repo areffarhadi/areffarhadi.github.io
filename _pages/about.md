@@ -6,8 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to My Website!
+======
+I am Aref Farhadipour, a PhD student at the University of Zurich, where I am set to begin my research on multimodal human-machine interaction in March 2024. My academic and professional journey has been deeply rooted in speech processing, multimodal signal processing, and artificial intelligence. With a background in electrical and sound engineering, my work has focused on developing AI-based solutions to tackle complex problems, particularly in speech and image processing.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My interests span a variety of fields, including music signal processing, speech processing, and multimodal data analysis. I am exploring how these modalities can be integrated to improve human-computer interaction. By combining voice, gesture, text, and facial recognition, I aim to contribute to more natural and intuitive ways for machines and humans to communicate.
+
+This platform will be a space to share my research, publications, projects and interests. I would like you to explore my work. Contact me if you want to collaborate or learn more about my research.
 
 A data-driven personal website
 ======
