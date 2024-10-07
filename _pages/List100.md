@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "List 100"
-permalink: /list100/
+permalink: /List100/
 author_profile: true
 redirect_from:
   - /resume
