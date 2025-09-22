@@ -14,6 +14,12 @@ My interests span a variety of fields, including music signal processing, speech
 
 This platform will be a space to share my research, publications, projects and interests. I would like you to explore my work. Contact me if you want to collaborate or learn more about my research.
 
+🔥 News
+======
+**2025.02.23**: Add support for the Xi-vector, see #404.
+
+**2024.09.03**: Support the SimAM_ResNet and the model pretrained on VoxBlink2, check Pretrained Models for the pretrained model, VoxCeleb Recipe for the super performance, and python usage for the command line usage!
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

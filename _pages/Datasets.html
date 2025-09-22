@@ -29,5 +29,5 @@ author_profile: true
   </p>
   {% endif %}
 </div>
-<hr />
+{% unless forloop.last %}<hr style="margin: 2em 0; border: 1px solid #ddd;" />{% endunless %}
 {% endfor %}
