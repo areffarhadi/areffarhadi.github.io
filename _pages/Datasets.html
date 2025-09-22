@@ -1,12 +1,33 @@
 ---
 layout: archive
 title: "Datasets"
-permalink: /teaching/
+permalink: /Datasets/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign datasets = site.data.datasets %}
+{% for ds in datasets %}
+<div class="archive__item">
+  {% if ds.image %}
+  <div class="archive__item-teaser">
+    <img src="{{ ds.image | relative_url }}" alt="{{ ds.name }}">
+  </div>
+  {% endif %}
+  <h2 class="archive__item-title">{{ ds.name }}</h2>
+  <p><strong>Goal:</strong> {{ ds.goal }}</p>
+  {% if ds.abstract %}<p>{{ ds.abstract }}</p>{% endif %}
+  {% if ds.paper_url %}
+  <p><strong>Paper:</strong> <a href="{{ ds.paper_url | relative_url }}">Link</a></p>
+  {% endif %}
+  {% if ds.downloads %}
+  <p><strong>Downloads:</strong>
+    {% for dl in ds.downloads %}
+      <a href="{{ dl.url }}" class="btn btn--primary btn--small">{{ dl.label }}</a>{% unless forloop.last %} {% endunless %}
+    {% endfor %}
+  </p>
+  {% endif %}
+</div>
+<hr />
 {% endfor %}

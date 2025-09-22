@@ -1,0 +1,27 @@
+# Add your datasets here. Each item supports:
+# - name: dataset name
+# - image: path to image in repo (e.g., images/500x300.png) or full URL
+# - goal: e.g., ASR, speech enhancement, diarization
+# - abstract: short description
+# - paper_url: link to paper (PDF or webpage)
+# - downloads: list of labeled links
+
+- name: Aref-VoiceBank
+  image: images/500x300.png
+  goal: ASR
+  abstract: "A curated set of read speech for automatic speech recognition experiments. Includes clean and noisy subsets with aligned transcripts."
+  paper_url: /files/paper1.pdf
+  downloads:
+    - label: Primary download
+      url: https://example.com/aref-voicebank
+
+- name: Aref-NoiseMix
+  image: images/500x300.png
+  goal: Speech Enhancement
+  abstract: "Mixtures of speech and real-world noise for supervised enhancement and denoising benchmarks."
+  paper_url: /files/paper2.pdf
+  downloads:
+    - label: Download (part 1)
+      url: https://example.com/aref-noisemix/part1
+    - label: Download (part 2)
+      url: https://example.com/aref-noisemix/part2
