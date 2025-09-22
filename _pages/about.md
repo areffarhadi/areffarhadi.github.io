@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Welcome to My Website!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Welcome to My Website!
 ======
 I am Aref Farhadipour, a PhD student at the University of Zurich, where I am set to begin my research on multimodal human-machine interaction in March 2024. My academic and professional journey has been deeply rooted in speech processing, multimodal signal processing, and artificial intelligence. With a background in electrical and sound engineering, my work has focused on developing AI-based solutions to tackle complex problems, particularly in speech and image processing.
 
