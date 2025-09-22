@@ -13,7 +13,7 @@ I am Aref Farhadipour, a PhD student at the University of Zurich, where I am set
 My interests span a variety of fields, including music signal processing, speech processing, and multimodal data analysis. I am exploring how these modalities can be integrated to improve human-computer interaction. By combining voice, gesture, text, and facial recognition, I aim to contribute to more natural and intuitive ways for machines and humans to communicate.
 
 This platform will be a space to share my research, publications, projects and interests. I would like you to explore my work. Contact me if you want to collaborate or learn more about my research.
----
+
 🔥 News
 ======
 **2025.02.23**: Add support for the Xi-vector, see #404.
